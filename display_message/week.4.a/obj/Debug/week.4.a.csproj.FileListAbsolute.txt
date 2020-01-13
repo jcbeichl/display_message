@@ -1,0 +1,11 @@
+C:\Users\Chris\source\repos\week.4.a\week.4.a\obj\Debug\week.4.a.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\week.4.a\week.4.a\obj\Debug\week.4.a.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\week.4.a\week.4.a\bin\Debug\week.4.a.exe.config
+C:\Users\Chris\source\repos\week.4.a\week.4.a\bin\Debug\week.4.a.exe
+C:\Users\Chris\source\repos\week.4.a\week.4.a\bin\Debug\week.4.a.pdb
+C:\Users\Chris\source\repos\week.4.a\week.4.a\obj\Debug\week.4.a.exe
+C:\Users\Chris\source\repos\week.4.a\week.4.a\obj\Debug\week.4.a.pdb
+C:\Users\Chris\Desktop\School Work\POS408\week.4.Beichler\week.4.a\week.4.a\obj\Debug\week.4.a.csprojAssemblyReference.cache
+C:\Users\Chris\Desktop\School Work\POS408\week.4.Beichler\week.4.a\week.4.a\obj\Debug\week.4.a.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\School Work\POS408\week.4.Beichler\week.4.a\week.4.a\obj\Debug\week.4.a.exe
+C:\Users\Chris\Desktop\School Work\POS408\week.4.Beichler\week.4.a\week.4.a\obj\Debug\week.4.a.pdb
